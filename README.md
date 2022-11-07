@@ -1,1 +1,1 @@
-# dotandbox
+# Game dot and box
